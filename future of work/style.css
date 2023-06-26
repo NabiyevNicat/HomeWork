@@ -1,0 +1,43 @@
+*{padding:0;
+margin:0;}
+
+img{
+position: relative;
+width: 200px;
+left: 767px;
+bottom: 75px;}
+
+body{height: 100vh;
+background: linear-gradient(to right,
+rgb(29, 28, 28) 0%,
+rgb(29,28,28) 50%,
+rgb(133, 162, 177)50%,
+rgb(133,162,177)100%);
+;}
+
+.items{display: flex;
+align-items: center;
+justify-content: space-around;
+margin:250px;}
+
+div{
+position: relative;
+right: 383px;
+bottom: 70px;
+}
+
+h1{position: relative;
+top: 150px;
+left: 167px;
+color: white;
+font-family: 'Franklin Gothic Medium';}
+
+p{position: relative;
+top:200px;
+left: 167px;
+color: white;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
